@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### My name is Corey Bown, I am a Neuroscience PhD candidate at Vanderbilty University, and I’m currently working on  utilizing machine learning to better study brain pathologies
 <!--
 **CoreyB33/CoreyB33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
